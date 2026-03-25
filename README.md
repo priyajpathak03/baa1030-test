@@ -1,4 +1,4 @@
-# Hello, Welcome to my repositpory
+# Hello, Welcome to my repository
 
 GitHub is:
 
